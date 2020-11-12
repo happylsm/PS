@@ -1,3 +1,1 @@
-# acmicpc_python
-# study
-# study
+# Problem Solving
